@@ -1,8 +1,9 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225240099
+# Name:NEERAJA MADASAMY
+# Date:20/11/2026
+
 
 
 # AIM:
@@ -39,6 +40,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1036" height="577" alt="railway use case" src="https://github.com/user-attachments/assets/332e7465-f5f1-4c26-b6d6-1c0b7697d739" />
 
 
 
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1908" height="1018" alt="railway communication" src="https://github.com/user-attachments/assets/0a00b239-9579-4f70-976a-509505726297" />
 
 
 
@@ -78,6 +81,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="1022" height="808" alt="railway package" src="https://github.com/user-attachments/assets/39ffe1de-1d18-4bd8-ac1d-a03a93fe5826" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1062" height="598" alt="railway activity" src="https://github.com/user-attachments/assets/760f6589-3a8d-488e-aac9-22879426db80" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1002" height="815" alt="railway sequence" src="https://github.com/user-attachments/assets/ad1d41f0-e410-4f55-9973-2dd4ac2d1db4" />
 
 
 

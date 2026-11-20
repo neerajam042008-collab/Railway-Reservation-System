@@ -61,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="993" height="557" alt="railway class" src="https://github.com/user-attachments/assets/2b4d9d3d-aa3b-4811-95e9-43f8a3568319" />
 
 
 # COMMUNICTION DIAGRAM:
